@@ -1,0 +1,54 @@
+body{
+	background-color: #616161;
+	font-family: "IBM Plex Mono",monospace;
+	color:#333333;
+}
+
+.main{
+	background-color: #8bc342;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 50%;
+   height: 100%;
+   padding-right: 20px;
+	border: 2px solid;
+	border-radius: 10px;
+	align-items: center;
+	justify-content: center;
+}
+.result{
+	background-color: #ffffff;
+
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   width: 50%;
+   height: 100%;
+   padding-right: 20px;
+	border: 2px solid;
+	border-radius: 10px;
+	align-items: center;
+	justify-content: center;
+	
+
+}
+h1{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	color:#ffffff;
+}
+.btn{
+	border:1px solid;
+	cursor: pointer;
+	border-radius: 2px;
+
+
+}
+.btn:hover{
+	color:#ff5722;
+}
+label{
+	color: black;
+}
